@@ -1,5 +1,5 @@
-HelloWorld
-Such a good day
-Have a nice day
-Glad to see you
-You're the best
+HelloWorld;
+Such a good day;
+Have a nice day;
+Glad to see you;
+You're the best;
